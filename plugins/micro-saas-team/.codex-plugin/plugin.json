@@ -1,0 +1,28 @@
+{
+  "name": "micro-saas-team",
+  "version": "1.0.1",
+  "description": "Research, validate and build focused micro-SaaS products for WDLON.",
+  "author": {
+    "name": "WDLON",
+    "url": "https://wdlon.com"
+  },
+  "homepage": "https://wdlon.com",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Micro SaaS Team",
+    "shortDescription": "Validate and build focused micro-SaaS products for WDLON.",
+    "longDescription": "Research buyer problems, validate paid demand, write product requirements, build focused MVPs and check launch readiness for wdlon.com.",
+    "developerName": "WDLON",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://wdlon.com",
+    "defaultPrompt": [
+      "Use Micro SaaS Team to find and validate a micro-SaaS opportunity for WDLON.",
+      "Use Micro SaaS Team to turn this idea into a focused MVP PRD.",
+      "Use Micro SaaS Team to build and check my approved MVP."
+    ]
+  }
+}

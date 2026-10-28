@@ -1,0 +1,20 @@
+{
+  "name": "wdlon-local",
+  "interface": {
+    "displayName": "WDLON Plugins"
+  },
+  "plugins": [
+    {
+      "name": "micro-saas-team",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity",
+      "source": {
+        "source": "local",
+        "path": "./plugins/micro-saas-team"
+      }
+    }
+  ]
+}
